@@ -39,6 +39,10 @@ The application allows users to send messages and receive AI-generated responses
 * Tailwind CSS (optional)
 
 ---
+## 🖼️ Application UI
+
+![AI Chat UI](https://github.com/unknownhero88/Chat-Bot-using-SpringAi/blob/01a39780ba56cdee6e6e1e58d7e53c923426263c/ss/Screenshot-AIChat%20using%20SPRING%20AI.png)
+---
 
 ## ⚙️ Installation & Setup
 
